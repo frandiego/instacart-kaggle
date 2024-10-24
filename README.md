@@ -10,5 +10,5 @@ This repository contains code and resources for the [Instacart Market Basket Ana
 - `models/`: Saved models and evaluation metrics.
 
 ## Requirements
-* `python 3.11`
+* `python 3.13`
 * `uv`: [link](https://docs.astral.sh/uv/guides/install-python/) extremely fast Python package installer and resolver
